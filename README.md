@@ -1,4 +1,5 @@
 # EmeraLD-Java-Edition-a0.11.0
+YOU WILL NEED JAVA FOR THIS!
 EmeraLD is a work in progress!
 
 What you need to do:
