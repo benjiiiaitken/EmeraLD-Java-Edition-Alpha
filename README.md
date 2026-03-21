@@ -29,6 +29,3 @@ some images:
 
 
 <img width="1279" height="747" alt="Screenshot 2026-03-17 183910" src="https://github.com/user-attachments/assets/a647c6bb-f192-4527-b77a-af7a1669dce4" />
-
-
-<iframe frameborder="0" src="https://itch.io/embed/4402750?border_width=5&amp;bg_color=39fb2a&amp;fg_color=000000&amp;link_color=000000&amp;border_color=cccccc" width="560" height="175"></a>
